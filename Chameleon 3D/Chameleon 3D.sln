@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chameleon 3D", "Chameleon 3D.csproj", "{0F4372A3-6F89-E595-A56F-2B9B71F83614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chameleon 3D.Editor", "Chameleon 3D.Editor.csproj", "{43BD506E-6E49-D0B5-EF36-89AFFB3187A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4372A3-6F89-E595-A56F-2B9B71F83614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4372A3-6F89-E595-A56F-2B9B71F83614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4372A3-6F89-E595-A56F-2B9B71F83614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4372A3-6F89-E595-A56F-2B9B71F83614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BD506E-6E49-D0B5-EF36-89AFFB3187A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BD506E-6E49-D0B5-EF36-89AFFB3187A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BD506E-6E49-D0B5-EF36-89AFFB3187A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BD506E-6E49-D0B5-EF36-89AFFB3187A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
